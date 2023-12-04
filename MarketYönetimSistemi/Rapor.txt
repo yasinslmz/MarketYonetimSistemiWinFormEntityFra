@@ -1,0 +1,2 @@
+Ürün ekleme ve silme için ürünler sepetteyken üzerine 2 kere tıklanınca ürün sepetten çıkarılır.
+Ürünlerin detayını görmek için iki kere tıklanır cell lere admin sayfasında veye market listesinde.
